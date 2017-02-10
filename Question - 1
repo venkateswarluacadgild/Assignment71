@@ -1,1 +1,2 @@
+Why Mapreduce program is needed in Pig Programming ?
 Apache PIG programs are written in a query language known as PIG LATIN.To execute the query there is need for execution engine. The PIG engine converts the queries in to MapReduce jobs and thus MapReduce acts as execution engine and is needed to run the programs.
